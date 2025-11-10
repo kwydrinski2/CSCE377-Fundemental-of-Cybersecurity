@@ -1,0 +1,1 @@
+This C++ program takes a piece of ciphertext, encoded using either vigenere cipher or shift cipher, and returns the plaintext version.
