@@ -1,1 +1,9 @@
 This C++ program takes a piece of ciphertext, encoded using either vigenere cipher or shift cipher, and returns the plaintext version.
+
+### Compiling
+
+A makefile is provided. Enter 'make' into terminal to compile project.
+
+### Running
+
+After compiling, enter './output cipheri.txt'. Replace i with 1, 2, 3, or 4 depending on the ciphertext to be decrypted.
